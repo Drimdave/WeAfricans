@@ -2,6 +2,15 @@
 
 A beautiful photo gallery application showcasing African photography, powered by the Unsplash API.
 
+## Live Demo
+
+Check out the live demo [here](https://weafricans.netlify.app/).
+
+## Demo Images
+
+![Demo Image 1](https://link-to-your-image-1.com)
+![Demo Image 2](https://link-to-your-image-2.com)
+
 ## Features
 
 - Display latest African photos in a staggered grid layout
