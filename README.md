@@ -8,8 +8,9 @@ Check out the live demo [here](https://weafricans.netlify.app/).
 
 ## Demo Images
 
-![Demo Image 1](https://link-to-your-image-1.com)
-![Demo Image 2](https://link-to-your-image-2.com)
+![desktop](https://github.com/user-attachments/assets/862caea3-a18f-46a3-a974-dc20e2f523e3)
+
+
 
 ## Features
 
