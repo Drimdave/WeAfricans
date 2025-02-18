@@ -10,6 +10,13 @@ Check out the live demo [here](https://weafricans.netlify.app/).
 
 ![desktop](https://github.com/user-attachments/assets/862caea3-a18f-46a3-a974-dc20e2f523e3)
 
+![desktop-3](https://github.com/user-attachments/assets/9dfb361d-2652-429c-87ff-882f358171d8)
+
+![desktop-4](https://github.com/user-attachments/assets/a5785cee-6409-4704-b5b7-9128cbf1ffb9)
+
+![mobile-1](https://github.com/user-attachments/assets/cee826f2-f3f7-457f-b7b9-563b56bc57bb)
+
+![mobile-2](https://github.com/user-attachments/assets/1722bf7d-8824-473b-b8b2-9d43a133c8eb)
 
 
 ## Features
